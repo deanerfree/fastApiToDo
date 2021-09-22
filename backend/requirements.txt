@@ -1,0 +1,9 @@
+fastapi == 0.65.1
+#this is the fastapi interaction server to communicate with the front and backend
+uvicorn == 0.14.0
+# used to talk to mongodb
+motor == 2.4.0
+# used for .env files
+python-decouple==3.3
+
+dnspython==2.1.0
