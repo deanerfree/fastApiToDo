@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e6098ed3248e00f977a50abd0000c3ccd309012bb810a599782aaa46d7aef8e9"
+            "sha256": "95e3b46c4b9322850b5b64bd64c15e32322bdd502016afb200a6e51cd3642f41"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==8.0.1"
+        },
+        "dnspython": {
+            "hashes": [
+                "sha256:95d12f6ef0317118d2a1a6fc49aac65ffec7eb8087474158f42f26a639135216",
+                "sha256:e4a87f0b573201a0f3727fa18a516b055fd1107e0e5477cded4a2de497df1dd4"
+            ],
+            "index": "pypi",
+            "version": "==2.1.0"
         },
         "fastapi": {
             "hashes": [
@@ -186,6 +194,13 @@
                 "sha256:ffbae429ba9e42d0582d3ac63fdb410338892468a2107d8ff68228ec9a39a0ed"
             ],
             "version": "==3.12.0"
+        },
+        "python-decouple": {
+            "hashes": [
+                "sha256:55c546b85b0c47a15a47a4312d451a437f7344a9be3e001660bccd93b637de95"
+            ],
+            "index": "pypi",
+            "version": "==3.3"
         },
         "starlette": {
             "hashes": [
